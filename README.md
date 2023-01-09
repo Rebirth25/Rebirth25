@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rebirth25
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in IT and Game Development
+- 🌱 I’m currently learning IT and Game Development at Penn State
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
